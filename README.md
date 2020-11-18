@@ -1,1 +1,5 @@
+---
+layout: slides
+---
+
 # literate-fortnight
